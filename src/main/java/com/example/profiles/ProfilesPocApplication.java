@@ -11,7 +11,7 @@ public class ProfilesPocApplication {
 
 	private static final Logger logger = LoggerFactory.getLogger(ProfilesPocApplication.class);
 	public static void main(String[] args) {
-		//test commit1
+		
 		logger.info("Application starts.....");
 		SpringApplication.run(ProfilesPocApplication.class, args);
 	}
